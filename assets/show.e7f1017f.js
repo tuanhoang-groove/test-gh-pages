@@ -1,0 +1,2 @@
+function o({on:e,children:n}){return e?n:null}try{o.displayName="Show",o.__docgenInfo={description:"",displayName:"Show",props:{on:{defaultValue:null,description:"",name:"on",required:!0,type:{name:"boolean"}}}},typeof STORYBOOK_REACT_CLASSES!="undefined"&&(STORYBOOK_REACT_CLASSES["src/components/atoms/show.tsx#Show"]={docgenInfo:o.__docgenInfo,name:"Show",path:"src/components/atoms/show.tsx#Show"})}catch{}export{o as S};
+//# sourceMappingURL=show.e7f1017f.js.map

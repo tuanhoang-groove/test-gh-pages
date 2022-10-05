@@ -1,0 +1,1 @@
+{"version":3,"file":"class-variants.691eef1c.js","sources":["../../src/utils/class-variants.ts"],"sourcesContent":["export function classVariants(variant: string, map: {[key: string]: string}) {\n  return map[variant];\n}\n"],"names":["classVariants","variant","map"],"mappings":"AAAgB,SAAAA,EAAcC,EAAiBC,EAA8B,CAC3E,OAAOA,EAAID,EACb"}
